@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c31c4f04-2c75-443b-89ea-27f892af1fdb" name="Changes" comment="added main method">
+    <list default="true" id="c31c4f04-2c75-443b-89ea-27f892af1fdb" name="Changes" comment="statement written to display menu to get choice of item from user">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PizzaOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666196403082</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="declared and initialized variables">
+      <created>1666196763375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666196763375</updated>
+    </task>
+    <task id="LOCAL-00006" summary="statement written to display menu to get choice of item from user">
+      <created>1666196912777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666196912777</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +128,8 @@
     <MESSAGE value="changed JDK version from 19 to 11" />
     <MESSAGE value="created class PizzaOrder" />
     <MESSAGE value="added main method" />
-    <option name="LAST_COMMIT_MESSAGE" value="added main method" />
+    <MESSAGE value="declared and initialized variables" />
+    <MESSAGE value="statement written to display menu to get choice of item from user" />
+    <option name="LAST_COMMIT_MESSAGE" value="statement written to display menu to get choice of item from user" />
   </component>
 </project>
